@@ -1,4 +1,4 @@
-# This is Time based OTP writed in Java (Spring Boot) - API
+# This is Time based OTP written in Java (Spring Boot) - API
 
 ## References:
 
